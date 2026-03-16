@@ -82,18 +82,10 @@ This analysis explores several important sports business questions:
 
 ---
 
-## Repository Structure
+## Key Business Insight
 
-## Results
+The analysis suggests that Lionel Messi's arrival had a measurable impact on attendance at Inter Miami home matches.
 
-The analysis suggests that Lionel Messi's arrival had a measurable impact on attendance at Inter Miami home matches. 
+Average attendance increased significantly after Messi joined the team, indicating a strong demand response from fans. This result supports the idea that superstar athletes can generate substantial economic value in professional sports leagues.
 
-Average attendance increased significantly after Messi joined the team, indicating a strong demand response from fans. This finding supports the idea that superstar athletes can drive fan engagement and commercial value in professional sports leagues.
-
----
-
-## Business Implications
-
-This analysis highlights how superstar athletes can influence sports business outcomes. Increased attendance can lead to higher ticket revenue, stronger sponsorship value, and greater media attention for teams and leagues.
-
-For sports organizations, investing in high-profile players can generate substantial economic and marketing benefits.
+Higher attendance can translate into increased ticket revenue, stronger sponsorship opportunities, and greater media attention. For sports organizations, the presence of globally recognized athletes can significantly enhance both fan engagement and commercial performance.
