@@ -61,7 +61,7 @@ Attendance = β0 + β1(Post_Messi) + β2(Miami_Home) + β3(Post_Messi × Miami_H
 
 ## Key Visualization
 
-![Messi Attendance Comparison](messi_attendance_comparison.png)
+![Inter Miami Attendance](Inter Miami Home Attendance Before vs After Lionel Messi.png)
 
 The figure above compares average attendance at Inter Miami home matches before and after Lionel Messi joined the club. The visualization highlights a clear increase in match attendance following Messi’s arrival, demonstrating the strong demand impact of superstar athletes in professional sports leagues.
 
